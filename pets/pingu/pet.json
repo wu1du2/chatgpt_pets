@@ -1,0 +1,7 @@
+{
+  "id": "pingu",
+  "displayName": "Pingu",
+  "description": "A cheerful clay penguin companion who waves, works, waits, and follows your Codex tasks.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
