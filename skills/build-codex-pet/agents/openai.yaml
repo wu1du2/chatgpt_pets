@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Codex Pet"
+  short_description: "Create reviewed, installable Codex desktop pets"
+  default_prompt: "Use $build-codex-pet to turn my DIY pet reference images into a reviewed and installable Codex desktop pet."

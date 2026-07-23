@@ -25,3 +25,15 @@ cp -R pets/pingu ~/.codex/pets/
 Restart Codex if the pet picker is already open.
 
 These custom assets are intended for personal, non-commercial use.
+
+## Included skill
+
+- `build-codex-pet` — staged DIY pet generation, review, sprite-atlas
+  assembly, validation, and installation
+
+Install the skill with:
+
+```bash
+mkdir -p ~/.codex/skills
+cp -R skills/build-codex-pet ~/.codex/skills/
+```
